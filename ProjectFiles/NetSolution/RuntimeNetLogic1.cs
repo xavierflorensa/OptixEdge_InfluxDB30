@@ -16,6 +16,7 @@ using FTOptix.CommunicationDriver;
 using FTOptix.Core;
 using FTOptix.NetLogic;
 using FTOptix.InfluxDBStoreLocal;
+using FTOptix.WebUI;
 #endregion
 
 public class RuntimeNetLogic1 : BaseNetLogic
